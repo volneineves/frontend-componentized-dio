@@ -1,6 +1,6 @@
 # DIO: Jogo da memória com JavaScript
 
-![Logo do Markdown](./assets/react.png)
+![Logo do Markdown](./assets/react.jpg)
 
 ## :computer: Sobre
 
